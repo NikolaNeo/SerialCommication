@@ -1,0 +1,5 @@
+IC --> LM1458 , LM311 , PIC 12C508 , MAX232
+Resistor --> 1 X 62K , 2 X 36K , 4 X 1K2 , 2 X 1K5 , 2 X 10K 
+Capacitor --> 4 x 100nF(Seramic) , 2 x 10uF(Elektrolitic) , 2 x 1uF(Elektrolitic)
+Diode --> 1N4148
+Transistor --> BC327
